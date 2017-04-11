@@ -20,11 +20,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: blue;
+    background-color: orange;
 }
 
 body {
-    background-color: blue;
+    background-color: orange;
 }
 .center {
     margin: auto;
